@@ -1,11 +1,11 @@
 title: Барабаш Олег Володимирович
-email: barabash-oleg@lll.kpi.ua
+#email: barabash-oleg@lll.kpi.ua
 description: Сайт для студентів
-theme: jekyll-theme-cayman
-repository: BarabashOleg/website
-remote_theme: pages-themes/cayman@v0.2.0
-github: [metadata]
-domain: barabasholeg.github.io
+theme: just-the-docs
+#repository: BarabashOleg/website
+#remote_theme: pages-themes/cayman@v0.2.0
+#github: [metadata]
+#domain: barabasholeg.github.io
 url: https://barabasholeg.github.io/
-plugins:
-- jekyll-remote-theme
+
+search_enabled: false
