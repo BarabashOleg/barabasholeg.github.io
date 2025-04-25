@@ -4,5 +4,6 @@ description: Сайт для студентів
 theme: jekyll-theme-cayman
 repository: BarabashOleg/website
 remote_theme: pages-themes/cayman@v0.2.0
+github: [metadata]
 plugins:
 - jekyll-remote-theme
