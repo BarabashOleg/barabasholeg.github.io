@@ -22,7 +22,7 @@ nav_order: 2
 Завдання на ЛР-1  (здати до 17.02.2025)  - [скачати](https://www.dropbox.com/s/9zate8ma7h60d4e/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%A0-1.pdf?dl=0)  
 Завдання на ЛР-2 (здати до 17.03.2025)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
 Завдання на ЛР-3 (здати до 14.04.2025) - [скачати](https://www.dropbox.com/scl/fi/2lpxpk8j2pwhablp8a5gx/2_-3.pdf?rlkey=2h96wv6bja17bayfs04gcmhs8&dl=0)  
-Завдання на ЛР-4 (здати до 12.05.2025) - скачати
+Завдання на ЛР-4 (здати до 12.05.2025) - [скачати](https://www.dropbox.com/scl/fi/hvu6uo766b9pfnarm6ey5/2_-4.pdf?rlkey=u1eiaiu331lzthbljuyijtyvx&dl=0) 
 
 Розрахунково-графічна робота (РГР) (здати до 19.05.2025)   -  [скачати](https://www.dropbox.com/scl/fi/743gkwr9r3xgzobghfdn0/2_.pdf?rlkey=w04enannc6729o99g9fbsdw3p&dl=0)
 
