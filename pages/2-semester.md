@@ -19,6 +19,8 @@ nav_order: 2
 ](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)Ідентифікатор конференції: 353 627 7953  
 Код доступу: tef
 
+**УВАГА! Підключитись до занять в Zoom 7 травня:**
+
 Завдання на ЛР-1  (здати до 17.02.2025)  - [скачати](https://www.dropbox.com/s/9zate8ma7h60d4e/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%A0-1.pdf?dl=0)  
 Завдання на ЛР-2 (здати до 17.03.2025)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
 Завдання на ЛР-3 (здати до 14.04.2025) - [скачати](https://www.dropbox.com/scl/fi/2lpxpk8j2pwhablp8a5gx/2_-3.pdf?rlkey=2h96wv6bja17bayfs04gcmhs8&dl=0)  
