@@ -6,7 +6,7 @@ nav_order: 1
 
 ## Дисципліна «АЛГОРИТМИ ТА СТРУКТУРИ ДАННИХ-1. ОСНОВИ АЛГОРИТМІЗАЦІЇ»
 
-Силабус дисципліни — [скачати](https://www.dropbox.com/s/yrt2l9zt3zpnbbd/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%B8%D0%BB%D0%B0%D0%B1%D1%83%D1%81_121_%D0%B1%D0%B0%D0%BA_1-%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.pdf?dl=0)
+Силабус дисципліни — [скачати](https://www.dropbox.com/scl/fi/isbe8wer8fgaiegl6hnb7/1_-_F2_-_1.pdf?rlkey=0lhsld6r5atvde4rdiegkxg05&dl=0)
 
 Перелік навчальної літератури - [скачати](https://www.dropbox.com/s/cm5mkvk83mr4obv/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B8.pdf?dl=0)
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/s/lbv9otxfkwlxy2v/%D0%90%D0%A1%D0%94-1_%D0%A0%D0%A1%D0%9E.pdf?dl=0)
