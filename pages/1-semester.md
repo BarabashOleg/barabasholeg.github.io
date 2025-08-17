@@ -28,6 +28,7 @@ https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09
 Завдання на ЛР-6 (Алгоритми обробки матриць та систем рівнянь)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0) 
 Завдання на ЛР-7 (Моделювання взаємодії об'єктів)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0) 
 
+
 Завдання на РГР (Програмування алгоритмів обробки матриць)  -  [скачати](https://www.dropbox.com/s/91fl36sb1qdkgsj/%D0%90%D0%A1%D0%94-1_%D0%A0%D0%93%D0%A0.pdf?dl=0)
 
 **Рекомендації щодо виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/d524qsn1ef3u9uc5pm4wv/1_-_.pdf?rlkey=ii8ihykxramn2fkux5pkufp8w&dl=0)
