@@ -73,11 +73,11 @@ https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09
 **Відеоурок до Лекц-11:** [Тестування ПЗ, Junit-тести ](https://www.dropbox.com/s/5cgyj9p86exrlwk/%D0%90%D0%A1%D0%94-1_%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%9F%D0%97%20%20Junit-%D1%82%D0%B5%D1%81%D1%82%D0%B8.mp4?dl=0)
 
 
-**Рекомендації щодо виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/d524qsn1ef3u9uc5pm4wv/1_-_.pdf?rlkey=ii8ihykxramn2fkux5pkufp8w&dl=0)
+**Рекомендації щодо виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/d524qsn1ef3u9uc5pm4wv/1_-_.pdf?rlkey=ii8ihykxramn2fkux5pkufp8w&dl=0)  
 **Зразок виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/fnmm08biy6meyx0y8zkkf/1_-_-50_.pdf?rlkey=3nlv7eh84dsr7ba1bp2njlgq2&dl=0)  
-**Завдання на МКР** (доступно __ грудня 2025 року о 14.15) — скачати
+**Завдання на МКР** (доступно __ грудня 2025 року о 14.15) — скачати  
 
-Дата проведення **консультації перед заліком** - ___ грудня 2025 р. Початок о 19.00.
+Дата проведення **консультації перед заліком** - ___ грудня 2025 р. Початок о 19.00.  
 Дата проведення заліку - 15 грудня 2025 р . Початок о 14.15.  
 
 > Перелік питань до заліку за 1-й семестр - [скачати](https://www.dropbox.com/scl/fi/f9m7vbgc5yrswm0xdc1up/1_.pdf?rlkey=mcl1leght60ids1epvbb8aylh&dl=0)
