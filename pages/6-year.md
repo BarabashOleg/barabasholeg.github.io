@@ -6,7 +6,7 @@ nav_order: 4
 
 ## Дисципліна «НАУКОВА РОБОТА ЗА ТЕМОЮ МАГІСТЕРСЬКОЇ ДИСЕРТАЦІЇ-3″
 
-для студентів-магістрів 6 курсу (групи ТВ-31мн).
+для студентів-магістрів 6 курсу (групи ТВ-41мн).
 
 Силабус з дисципліни — [скачати](https://www.dropbox.com/scl/fi/nciu8keuk9zrxl1smcfly/_-_-3_121_-_-_6-_.pdf?rlkey=w6l6kk31qses382641ciqqirf&dl=0)
 
@@ -25,7 +25,7 @@ nav_order: 4
 
 [ПЗ-1](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0), [ПЗ-2](https://www.dropbox.com/scl/fi/hypq5h6j20zqty6zakzpl/3_-2.pdf?rlkey=ttvec678r4g1dgigr574ruop4&dl=0), [ПЗ-3](https://www.dropbox.com/scl/fi/sdnygcnm5i61kyjug81o7/3_-3.pdf?rlkey=lrd1h9rcpdo28wizyi76ofgyo&dl=0), [ПЗ-4](https://www.dropbox.com/scl/fi/i5jspw83evp2xlzqelkf1/3_-4.pdf?rlkey=6n2gps02onjxloanv5vbsfj2h&dl=0), [ПЗ-5](https://www.dropbox.com/scl/fi/3p1fz81s1is31c4l2o2gc/3_-5.pdf?rlkey=orkv8ob203146c9ofol5qgsu0&dl=0), [ПЗ-6](https://www.dropbox.com/scl/fi/bdf0my4x7a0yqfp63mxo1/3_-6.pdf?rlkey=991i049mqw74s3mugz5a3k474&dl=0), [ПЗ-7](https://www.dropbox.com/scl/fi/aqhfsmbizlyur7xcejnso/3_-7.pdf?rlkey=zlejmdlz5bfnkrxye2nencq32&dl=0), [ПЗ-8](https://www.dropbox.com/scl/fi/49eouxpul7c57zdsxdva6/3_-8.pdf?rlkey=e4d2hu3888gifjc7sx62jl366&dl=0)
 
-**Увага! Залік буде проводитись 10.12.2024.**
+**Увага! Залік буде проводитись __.12.2025.**
 
 Вимоги до заліку — [скачати](https://www.dropbox.com/scl/fi/fz7mdz72r92gdsmukjfn9/3_.pdf?rlkey=j5onel9vbgt9x58slj6wbnlpg&dl=0)  
 Перелік питань для заліку — [скачати](https://www.dropbox.com/scl/fi/qvhx16ovyd4kkcd12tuz6/3_.pdf?rlkey=zbqykjx7cavipk9c04c4xbpkk&dl=0)
