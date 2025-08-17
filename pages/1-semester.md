@@ -24,7 +24,7 @@ https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09
 Завдання на ЛР-2 (Програмування розгалужених алгоритмів) - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
 Завдання на ЛР-3 (Програмування циклічних алгоритмів)  - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
 Завдання на ЛР-4 (Алгоритми пошуку та сортування даних)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
-Завдання на ЛР-5 (Алгоритми обробки текстових рядків)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
+Завдання на ЛР-5 (Алгоритми обробки текстових рядків)  - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)
 Завдання на ЛР-6 (Алгоритми обробки матриць та систем рівнянь)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
 Завдання на ЛР-7 (Моделювання взаємодії об'єктів)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
 
