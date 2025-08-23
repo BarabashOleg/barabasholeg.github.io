@@ -6,24 +6,17 @@ nav_order: 2
 
 ## Дисципліна «АЛГОРИТМИ ТА СТРУКТУРИ ДАННИХ-2. СТРУКТУРИ ДАНИХ»
 
-Робоча навчальна програма — скачати         
-Силабус дисципліни — [скачати](https://www.dropbox.com/s/lyzcwwx155jycmv/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%B8%D0%BB%D0%B0%D0%B1%D1%83%D1%81_121_%D0%B1%D0%B0%D0%BA_2-%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.pdf?dl=0)
-
+    
+Силабус дисципліни — [скачати](https://www.dropbox.com/s/lyzcwwx155jycmv/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%B8%D0%BB%D0%B0%D0%B1%D1%83%D1%81_121_%D0%B1%D0%B0%D0%BA_2-%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.pdf?dl=0)  
 Перелік навчальної літератури - [скачати](https://www.dropbox.com/s/19fz9yd1qi9i7i5/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B8.pdf?dl=0)  
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/s/o0ote8ya0f6eujz/%D0%90%D0%A1%D0%94-2_%D0%A0%D0%A1%D0%9E.pdf?dl=0)  
-Спец прогр забезпечення (для практичних занять) — [скачати](https://www.dropbox.com/s/2fbxk32qv954tj7/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%BF%D0%B5%D1%86%20%D0%9F%D0%97%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C.pdf?dl=0)
+Спец прогр забезпечення (для практичних занять) — [скачати](https://www.dropbox.com/s/2fbxk32qv954tj7/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%BF%D0%B5%D1%86%20%D0%9F%D0%97%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C.pdf?dl=0)  
 
 **Підключитись до занять в Zoom:**
 
 [https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09  
 ](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)Ідентифікатор конференції: 353 627 7953  
 Код доступу: tef
-
-**УВАГА! В середу 21 травня буде проведено Практичне заняття 7**  
-Прошу підключатись за посиланням Макарчука Андрія Валентиновича  
-https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1  
-Идентификатор конференции: 755 8614 2983  
-Код доступа: 7aCX2R  
 
 Завдання на ЛР-1  (здати до 17.02.2025)  - [скачати](https://www.dropbox.com/s/9zate8ma7h60d4e/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%A0-1.pdf?dl=0)  
 Завдання на ЛР-2 (здати до 17.03.2025)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
@@ -47,4 +40,9 @@ https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1
 
 [ПЗ-1](https://www.dropbox.com/s/ehkgllv9lkjuy7m/%D0%90%D0%A1%D0%94-2_%D0%9F%D0%97-1.pdf?dl=0),  [ПЗ-2](https://www.dropbox.com/s/qsrymsqf3nln55b/%D0%90%D0%A1%D0%94-2_%D0%9F%D0%97-2.pdf?dl=0),   [ПЗ-3](https://www.dropbox.com/s/p5znffm3gm4uw9t/%D0%90%D0%A1%D0%94-2_%D0%9F%D0%97-3.pdf?dl=0),  [ПЗ-4](https://www.dropbox.com/s/fgl0zkcruj05d15/%D0%90%D0%A1%D0%94-2_%D0%9F%D0%97-4.pdf?dl=0),   [ПЗ-5](https://www.dropbox.com/s/kc30gj3ievryoh3/%D0%90%D0%A1%D0%94-2_%D0%9F%D0%97-5.pdf?dl=0),   [ПЗ-6](https://www.dropbox.com/s/7pcp71oi7navhzu/%D0%90%D0%A1%D0%94-2_%D0%9F%D0%97-6.pdf?dl=0),  [ПЗ-7](https://www.dropbox.com/s/28xas3opou3ib2m/%D0%90%D0%A1%D0%94-2_%D0%9F%D0%97-7.pdf?dl=0), ПЗ-8
 
-**Консультації:** кожного понеділка о 19.00.
+**Консультації:** кожного понеділка о 19.00.  
+
+**Прошу підключатись на ПЗ за посиланням Макарчука Андрія Валентиновича**  
+https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1  
+Идентификатор конференции: 755 8614 2983  
+Код доступа: 7aCX2R  
