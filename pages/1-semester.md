@@ -29,21 +29,8 @@ nav_order: 1
 
 **Перелік лекцій:**
 
-- [Лекція 1](https://www.dropbox.com/s/56cnypjlvh18en5/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-1.pdf?dl=0)
-- [Лекція 2](https://www.dropbox.com/s/9wx7p7zfy5z79jb/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-2.pdf?dl=0)
-- [Лекція 3](https://www.dropbox.com/s/mfh6neg219qecfg/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-3.pdf?dl=0)
-- [Лекція 4](https://www.dropbox.com/s/l6rqew662xd0qsa/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-4.pdf?dl=0)
-- [Лекція 5](https://www.dropbox.com/s/xj7n3khklf20a7c/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-5.pdf?dl=0)
-- [Лекція 6](https://www.dropbox.com/s/umt9vfezewgw0xl/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-6.pdf?dl=0)
-- [Лекція 7](https://www.dropbox.com/s/4mx00392z65zvrh/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-7.pdf?dl=0)
-- [Лекція 8](https://www.dropbox.com/s/ivac7t3039lzhsk/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-8.pdf?dl=0)
-- [Лекція 9](https://www.dropbox.com/s/npue4nws4yufhjr/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-9.pdf?dl=0)
-- [Лекція 10](https://www.dropbox.com/s/3eknn2yz14s3ple/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-10.pdf?dl=0)
-- [Лекція 11](https://www.dropbox.com/s/zp1x0gaei4e1c01/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-11.pdf?dl=0)
-- [Лекція 12](https://www.dropbox.com/s/lcg3p5g037bqb1b/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-12.pdf?dl=0)
-- [Лекція 13](https://www.dropbox.com/scl/fi/nhac6md9fylygcld99aff/1_-13.pdf?rlkey=3m5cndjcyhhsor0whauiwz3jc&dl=0)
-- [Лекція 14](https://www.dropbox.com/scl/fi/8v5mij1e5x2rsvw4kaioi/1_-14.pdf?rlkey=8h592oiw4xlrz1mxy0y3qji6r&dl=0)
-- [Лекція 15](https://www.dropbox.com/s/u45kwvo073lovri/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-13.pdf?dl=0)
+[Лекція 1](https://www.dropbox.com/s/56cnypjlvh18en5/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-1.pdf?dl=0), [Лекція 2](https://www.dropbox.com/s/9wx7p7zfy5z79jb/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-2.pdf?dl=0), [Лекція 3](https://www.dropbox.com/s/mfh6neg219qecfg/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-3.pdf?dl=0), [Лекція 4](https://www.dropbox.com/s/l6rqew662xd0qsa/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-4.pdf?dl=0), [Лекція 5](https://www.dropbox.com/s/xj7n3khklf20a7c/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-5.pdf?dl=0), [Лекція 6](https://www.dropbox.com/s/umt9vfezewgw0xl/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-6.pdf?dl=0), [Лекція 7](https://www.dropbox.com/s/4mx00392z65zvrh/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-7.pdf?dl=0), [Лекція 8](https://www.dropbox.com/s/ivac7t3039lzhsk/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-8.pdf?dl=0),  
+[Лекція 9](https://www.dropbox.com/s/npue4nws4yufhjr/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-9.pdf?dl=0), [Лекція 10](https://www.dropbox.com/s/3eknn2yz14s3ple/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-10.pdf?dl=0), [Лекція 11](https://www.dropbox.com/s/zp1x0gaei4e1c01/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-11.pdf?dl=0), [Лекція 12](https://www.dropbox.com/s/lcg3p5g037bqb1b/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-12.pdf?dl=0), [Лекція 13](https://www.dropbox.com/scl/fi/nhac6md9fylygcld99aff/1_-13.pdf?rlkey=3m5cndjcyhhsor0whauiwz3jc&dl=0), [Лекція 14](https://www.dropbox.com/scl/fi/8v5mij1e5x2rsvw4kaioi/1_-14.pdf?rlkey=8h592oiw4xlrz1mxy0y3qji6r&dl=0), [Лекція 15](https://www.dropbox.com/s/u45kwvo073lovri/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-13.pdf?dl=0)
 
 **Практичні заняття:**
 
