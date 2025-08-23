@@ -43,6 +43,6 @@ nav_order: 2
 **Консультації:** кожного понеділка о 19.00.  
 
 **Прошу підключатись на ПЗ за посиланням Макарчука Андрія Валентиновича**  
-https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1  
+[https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1](https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1)  
 Идентификатор конференции: 755 8614 2983  
 Код доступа: 7aCX2R  
