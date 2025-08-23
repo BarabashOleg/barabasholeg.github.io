@@ -67,3 +67,4 @@ https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09
 Дата проведення заліку - 15 грудня 2025 р . Початок о 14.15.  
 
 Перелік питань до заліку за 1-й семестр - [скачати](https://www.dropbox.com/scl/fi/f9m7vbgc5yrswm0xdc1up/1_.pdf?rlkey=mcl1leght60ids1epvbb8aylh&dl=0)
+
