@@ -8,9 +8,9 @@ nav_order: 1
 
 Силабус дисципліни — [скачати](https://www.dropbox.com/scl/fi/isbe8wer8fgaiegl6hnb7/1_-_F2_-_1.pdf?rlkey=0lhsld6r5atvde4rdiegkxg05&dl=0)
 
-Перелік навчальної літератури - [скачати](https://www.dropbox.com/s/cm5mkvk83mr4obv/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B8.pdf?dl=0)
-Рейтингова система оцінювання - [скачати](https://www.dropbox.com/s/lbv9otxfkwlxy2v/%D0%90%D0%A1%D0%94-1_%D0%A0%D0%A1%D0%9E.pdf?dl=0)
-Спец прогр забезпечення (для практичних занять) — [скачати](https://www.dropbox.com/s/9qw3f56ougvmhz4/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%BF%D0%B5%D1%86%20%D0%9F%D0%97%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C.pdf?dl=0)
+Перелік навчальної літератури - [скачати](https://www.dropbox.com/s/cm5mkvk83mr4obv/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B8.pdf?dl=0)  
+Рейтингова система оцінювання - [скачати](https://www.dropbox.com/s/lbv9otxfkwlxy2v/%D0%90%D0%A1%D0%94-1_%D0%A0%D0%A1%D0%9E.pdf?dl=0)  
+Спец прогр забезпечення (для практичних занять) — [скачати](https://www.dropbox.com/s/9qw3f56ougvmhz4/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%BF%D0%B5%D1%86%20%D0%9F%D0%97%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C.pdf?dl=0)  
 
 **Підключитись до занять в Zoom:**
 
