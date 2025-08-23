@@ -25,12 +25,6 @@ nav_order: 2
 
 Розрахунково-графічна робота (РГР) (здати до 19.05.2025)   -  [скачати](https://www.dropbox.com/scl/fi/743gkwr9r3xgzobghfdn0/2_.pdf?rlkey=w04enannc6729o99g9fbsdw3p&dl=0)
 
-Дата проведення **модульної контрольної роботи** — 26.05.2025. Початок о 10.25.  
-Завдання на модульну контрольну роботу за 2-й семестр - [скачати](https://www.dropbox.com/scl/fi/nh7637h5ogq5p2xsqq20o/2_.pdf?rlkey=q1u5uwov36hcrlh8sd8lvrofi&dl=0)
-
-Дата проведення **консультації** **перед заліком** - 26.05.2025  Початок о 19.00.  
-Дата проведення **заліку** - 02 червня 2025 р . (методом накопичення оцінок)
-
 **Перелік лекцій:**
 
 [Лекція 1](https://www.dropbox.com/s/m64qdt0627an8tg/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-1.pdf?dl=0), [Лекція 2](https://www.dropbox.com/s/dke83cbeo59cudv/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-2.pdf?dl=0), [Лекція 3](https://www.dropbox.com/s/cc1v5a3y8pc5vjd/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-3.pdf?dl=0), [Лекція 4](https://www.dropbox.com/s/uw06ex7e8yfm68f/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-4.pdf?dl=0), [Лекція 5](https://www.dropbox.com/s/9l8cw02vb6cccdl/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-5.pdf?dl=0), [Лекція 6](https://www.dropbox.com/s/0sk769lqilpzs0v/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-6.pdf?dl=0), [Лекція 7](https://www.dropbox.com/s/qvx9axueyhfidi3/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-7.pdf?dl=0), [Лекція 8](https://www.dropbox.com/s/d3kljgu99rzox9p/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-8.pdf?dl=0),  
@@ -46,3 +40,9 @@ nav_order: 2
 [https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1](https://us04web.zoom.us/j/75586142983?pwd=SeN25fwJbVnPqfslhlpT3J1nHxJfdR.1)  
 Идентификатор конференции: 755 8614 2983  
 Код доступа: 7aCX2R  
+
+Дата проведення **модульної контрольної роботи** — 26.05.2025. Початок о 10.25.  
+Завдання на модульну контрольну роботу за 2-й семестр - [скачати](https://www.dropbox.com/scl/fi/nh7637h5ogq5p2xsqq20o/2_.pdf?rlkey=q1u5uwov36hcrlh8sd8lvrofi&dl=0)
+
+Дата проведення **консультації** **перед заліком** - 26.05.2025  Початок о 19.00.  
+Дата проведення **заліку** - 02 червня 2025 р . (методом накопичення оцінок)
