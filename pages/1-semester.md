@@ -28,20 +28,7 @@ https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09
 Завдання на ЛР-6 (Алгоритми обробки матриць та систем рівнянь)  - [скачати](https://www.dropbox.com/scl/fi/by6ry6dljko88pgy70uky/1_-6.pdf?rlkey=bcpwz1qcvrxs31ccrq50uy16d&dl=0)  
 Завдання на ЛР-7 (Моделювання взаємодії об'єктів)  - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
 
-**Рекомендації щодо виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/d524qsn1ef3u9uc5pm4wv/1_-_.pdf?rlkey=ii8ihykxramn2fkux5pkufp8w&dl=0)
-
-**Зразок виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/fnmm08biy6meyx0y8zkkf/1_-_-50_.pdf?rlkey=3nlv7eh84dsr7ba1bp2njlgq2&dl=0)  
-
-**Завдання на МКР** (доступно __ грудня 2025 року о 14.15) -скачати
-
-Дата проведення **консультації перед заліком** - ___ грудня 2025 р. Початок о 19.00.
-
-Дата проведення заліку - 30 грудня 2024 р . Початок о 14.15.  
-Дата проведення перескладання заліку — 15 грудня 2025 р. Початок о 14.15.
-
-> Перелік питань до заліку за 1-й семестр - [скачати](https://www.dropbox.com/scl/fi/f9m7vbgc5yrswm0xdc1up/1_.pdf?rlkey=mcl1leght60ids1epvbb8aylh&dl=0)
-
-Перелік лекцій:
+**Перелік лекцій:**
 
 - [Лекція 1](https://www.dropbox.com/s/56cnypjlvh18en5/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-1.pdf?dl=0)
 - [Лекція 2](https://www.dropbox.com/s/9wx7p7zfy5z79jb/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F-2.pdf?dl=0)
