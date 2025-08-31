@@ -42,6 +42,6 @@ nav_order: 5
 
 [ДЗ-1](https://www.dropbox.com/scl/fi/th2y2x2xzl8zqaeusru2o/_-1.pdf?rlkey=kcixkxxh2vm9sbw4jkitohpet&dl=0), [ДЗ-2](https://www.dropbox.com/scl/fi/5n01tedx76w5dq0jwxqsc/_-2.pdf?rlkey=i9metbgq0rn4925vb8hsmrehn&dl=0), [ДЗ-3](https://www.dropbox.com/scl/fi/iy3hut92xpq1lwn5hl8yz/_-3.pdf?rlkey=2topcwe5iys90scopgzwdn0kg&dl=0), [ДЗ-4](https://www.dropbox.com/scl/fi/91vmoqzuvtofxyo7x1o5v/_-4.pdf?rlkey=zqaqt1fdj3pyy9j6k4txykdbo&dl=0), [ДЗ-5](https://www.dropbox.com/scl/fi/whhwvusa9m70wcwzqwieo/_-5.pdf?rlkey=x8m96jxh397gueqp9qiibrm7r&dl=0), [ДЗ-6](https://www.dropbox.com/scl/fi/ypeyochcui6hkmj05m80e/_-6.pdf?rlkey=03xkw4dmtow9ip66gaiw6ki0p&dl=0), [ДЗ-7](https://www.dropbox.com/scl/fi/mq5ofv27ecrbgvteyh98a/_-7.pdf?rlkey=sz8y5u7oz4zjedlqdl4z8aw4y&dl=0), [ДЗ-8](https://www.dropbox.com/scl/fi/obzuc6fgwfawo0791i7te/_-8.pdf?rlkey=9mhkr4wqehnjrc35v70scfofb&dl=0), [ДЗ-9](https://www.dropbox.com/scl/fi/ae0burse81of7i2s0wk1t/_-9.pdf?rlkey=ukocwkcm6ha0kfkozgr2drfri&dl=0), [ДЗ-10](https://www.dropbox.com/scl/fi/42bfo6jbh14ehx6q4pmlx/_-10.pdf?rlkey=9cyv6gcws00ujwq4aknml5rrj&dl=0)
 
-**Залік буде проведено в період з \_\_ до \_\_  \_\_\_\_\_\_ .**
+**Екзамен буде проведено в період з \_\_ до \_\_  \_\_\_\_\_\_ .**
 
-Список теоретичних питань, що виносяться на залік— скачати
+Список теоретичних питань, що виносяться на екзамен — скачати
