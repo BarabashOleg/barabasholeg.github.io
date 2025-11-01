@@ -25,7 +25,7 @@ nav_order: 5
 
 Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/xzf79ozwwdwt2c7phdn01/_-1_-_.pdf?rlkey=84jv7xaz5a7gk721l2nsrlbtb&dl=0)
 
-**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/1dvu3xantjd3li4i7kbiz/_-2_-_.pdf?rlkey=k8a02f29rlffy4z8q76tuq7yb&dl=0)   (виконати __.__.2025 в ауд. __ згідно розкладу)
+**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/mcnk1r4xsvcupwv4xtot1/_-2_-_.pdf?rlkey=o1auujal4hxpb01ausmuhmj8q&dl=0)   (виконати 24.11.2025 з 10.30 до 11.50)
 
 **Перелік лекцій:**
 
