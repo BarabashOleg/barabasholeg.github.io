@@ -16,7 +16,7 @@ nav_order: 3
 ](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)Ідентифікатор конференції: 353 627 7953  
 Код доступу: tef  
 
-<!--
+
 [Варіант 1](https://www.dropbox.com/scl/fi/qegd6c5xgicd7a5lva99w/_-2_-_-01.pdf?rlkey=074kyi729db6vlyynhqwkx90e&dl=0)  
 [Варіант 2](https://www.dropbox.com/scl/fi/t4vnkdn1l9xyuoru5tvbr/_-2_-_-02.pdf?rlkey=wst8xbezlmxv5ncboccmzoxls&dl=0)  
 [Варіант 3](https://www.dropbox.com/scl/fi/37dyty8j7o1yt2pofg4xb/_-2_-_-03.pdf?rlkey=nuuq0j0meffj21e75t3yhmyb2&dl=0)  
@@ -47,6 +47,6 @@ nav_order: 3
 [Варіант 28](https://www.dropbox.com/scl/fi/qevwbym1oen4t2ltfcxt9/_-2_-_-28.pdf?rlkey=6hhynonja6w4bd9bovvh3ibv9&dl=0)  
 [Варіант 29](https://www.dropbox.com/scl/fi/28472d9ziln5tttztqy3i/_-2_-_-29.pdf?rlkey=xn7ea7i4eyle399u30p2t3qgr&dl=0)  
 [Варіант 30](https://www.dropbox.com/scl/fi/pxqtdxzkja79ue581yz05/_-2_-_-30.pdf?rlkey=rytjch6yxhcp4gkh7de3z1rlp&dl=0)  
--->
+
 
 
