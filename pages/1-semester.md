@@ -25,7 +25,7 @@ nav_order: 1
 Завдання на ЛР-4 (Алгоритми пошуку та сортування даних)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
 Завдання на ЛР-5 (Алгоритми обробки текстових рядків)  - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
 Завдання на ЛР-6 (Алгоритми обробки матриць та систем рівнянь)  - [скачати](https://www.dropbox.com/scl/fi/by6ry6dljko88pgy70uky/1_-6.pdf?rlkey=bcpwz1qcvrxs31ccrq50uy16d&dl=0)  
-Завдання на ЛР-7 (Моделювання взаємодії об'єктів)  - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
+Завдання на ЛР-7 (Моделювання взаємодії об'єктів, ЗАВДАННЯ ОНОВЛЕНО. Дедлайн 7.12.2025)  - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
 
 **Перелік лекцій:**
 
