@@ -46,7 +46,9 @@ nav_order: 5
 
 **Екзамен буде проведено: 8.12.2025 о 10.30 - КБ-21; 9.12.2025 о 10.30 - КБ-22; 11.12.2025 о 15.10 - КБ-23.**
 
-Список теоретичних питань, що виносяться на екзамен — [скачати](https://www.dropbox.com/scl/fi/6995qrta3rswsow5gb790/_.pdf?rlkey=2gv5il2t5ig5h1thetol7v249&dl=0)
+Список теоретичних питань, що виносяться на екзамен — [скачати](https://www.dropbox.com/scl/fi/6995qrta3rswsow5gb790/_.pdf?rlkey=2gv5il2t5ig5h1thetol7v249&dl=0)  
+Методичні рекомендації щодо складання екзамену — [скачати](https://www.dropbox.com/scl/fi/vgll71hwo55v0lp7g428s/_-_-2025.pdf?rlkey=bjw1aijujzuza6h3lrtu7l6oh&dl=0)
+
 
 
 
