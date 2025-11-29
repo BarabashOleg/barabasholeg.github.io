@@ -44,7 +44,7 @@ nav_order: 5
 
 [ДЗ-1](https://www.dropbox.com/scl/fi/xagi3s27afi9ipb3lvkbw/_-1.pdf?rlkey=o7do518z6cx59bf45z55rpi2f&dl=0), [ДЗ-2](https://www.dropbox.com/scl/fi/lbjljyzpiaeqp7rk9ul5z/_-2.pdf?rlkey=2i3clcrvjbbfrvna9x1y1rkch&dl=0), [ДЗ-3](https://www.dropbox.com/scl/fi/qc1z2g9s1mlaa3ywf3c2r/_-3.pdf?rlkey=rmfgbekcvwule568cfly1toxk&dl=0), [ДЗ-4](https://www.dropbox.com/scl/fi/rl0jl0te8zxkwrbg95u7y/_-4.pdf?rlkey=2e17f9mmt5ewagdvmzpg8kq82&dl=0), [ДЗ-5](https://www.dropbox.com/scl/fi/w0j2adfb8khznht16kqlh/_-5.pdf?rlkey=k5q84l8qaxpkm3gq78m6eh8x8&dl=0), [ДЗ-6](https://www.dropbox.com/scl/fi/0boytfcvc238xl6yrkwvd/_-6.pdf?rlkey=n1bsjmqx94917accc373z7i3l&dl=0), [ДЗ-7](https://www.dropbox.com/scl/fi/0s99y1o5q49pw7si6jcck/_-7.pdf?rlkey=ppkal1vi0jksipcz8qghnap4p&dl=0), [ДЗ-8](https://www.dropbox.com/scl/fi/045hlo9wf5k4hbic8mdgq/_-8.pdf?rlkey=u7cv5kdyv734fntbrqvrsqxlv&dl=0), [ДЗ-9](https://www.dropbox.com/scl/fi/xas383eh96c4jty0frd7q/_-9.pdf?rlkey=otyefn5ku1rijjemm7934b0if&dl=0), [ДЗ-10](https://www.dropbox.com/scl/fi/4fmin7i8el94wxvk38a5y/_-10.pdf?rlkey=nef71a9464oi6uj6j1z8n8ydc&dl=0)
 
-**Екзамен буде проведено в період з \_\_ до \_\_  \_\_\_\_\_\_ .**
+**Екзамен буде проведено: 8.12.2025 о 10.30 - КБ-21; 9.12.2025 о 10.30 - КБ-22; 11.12.2025 о 15.10 - КБ-23.**
 
 Список теоретичних питань, що виносяться на екзамен — [скачати](https://www.dropbox.com/scl/fi/6995qrta3rswsow5gb790/_.pdf?rlkey=2gv5il2t5ig5h1thetol7v249&dl=0)
 
