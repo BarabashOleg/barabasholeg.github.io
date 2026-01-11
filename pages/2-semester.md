@@ -21,7 +21,7 @@ nav_order: 2
 Завдання на ЛР-1  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/s/9zate8ma7h60d4e/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%A0-1.pdf?dl=0)  
 Завдання на ЛР-2  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
 Завдання на ЛР-3  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/2lpxpk8j2pwhablp8a5gx/2_-3.pdf?rlkey=2h96wv6bja17bayfs04gcmhs8&dl=0)  
-Завдання на ЛР-4  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/hvu6uo766b9pfnarm6ey5/2_-4.pdf?rlkey=u1eiaiu331lzthbljuyijtyvx&dl=0) 
+Завдання на ЛР-4  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/hvu6uo766b9pfnarm6ey5/2_-4.pdf?rlkey=u1eiaiu331lzthbljuyijtyvx&dl=0)  
 Завдання на ЛР-5  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
 Завдання на ЛР-6  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/2lpxpk8j2pwhablp8a5gx/2_-3.pdf?rlkey=2h96wv6bja17bayfs04gcmhs8&dl=0)  
 Завдання на ЛР-7  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/hvu6uo766b9pfnarm6ey5/2_-4.pdf?rlkey=u1eiaiu331lzthbljuyijtyvx&dl=0) 
