@@ -7,7 +7,7 @@ nav_order: 2
 ## Дисципліна «АЛГОРИТМИ ТА СТРУКТУРИ ДАННИХ-2. СТРУКТУРИ ДАНИХ»
 
     
-Силабус дисципліни — [скачати](https://www.dropbox.com/s/lyzcwwx155jycmv/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%B8%D0%BB%D0%B0%D0%B1%D1%83%D1%81_121_%D0%B1%D0%B0%D0%BA_2-%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.pdf?dl=0)  
+Силабус дисципліни — [скачати](https://www.dropbox.com/scl/fi/ugr9lihr0e16o0anywz7p/2_-_F2_-_2.pdf?rlkey=stt8ut4bmb8q3hrj3o454u4bn&dl=0)  
 Перелік навчальної літератури - [скачати](https://www.dropbox.com/s/19fz9yd1qi9i7i5/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B8.pdf?dl=0)  
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/s/o0ote8ya0f6eujz/%D0%90%D0%A1%D0%94-2_%D0%A0%D0%A1%D0%9E.pdf?dl=0)  
 Спец прогр забезпечення (для практичних занять) — [скачати](https://www.dropbox.com/s/2fbxk32qv954tj7/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%BF%D0%B5%D1%86%20%D0%9F%D0%97%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C.pdf?dl=0)  
