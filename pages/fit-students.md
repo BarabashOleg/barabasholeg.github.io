@@ -21,13 +21,14 @@ nav_order: 5
 
 Код доступу: tef
 
-**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/xzf79ozwwdwt2c7phdn01/_-1_-_.pdf?rlkey=84jv7xaz5a7gk721l2nsrlbtb&dl=0)   (виконати __.__.2026 в ауд. __ згідно розкладу)
+**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/7enrroqv9lf8dmsv2s6pj/1_-1_-_.pdf?rlkey=kyu0t1zdg8ubtkihffkvk3yku&dl=0)   (виконати __.__.2026 з __.__ до __.__)
 
-Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/xzf79ozwwdwt2c7phdn01/_-1_-_.pdf?rlkey=84jv7xaz5a7gk721l2nsrlbtb&dl=0)
+Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/uk8bnrtlao8hjnm2isanm/1_-1_.pdf?rlkey=2dlvdohtazfyt7gmcsbjyje5j&dl=0)
 
-**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/mcnk1r4xsvcupwv4xtot1/_-2_-_.pdf?rlkey=o1auujal4hxpb01ausmuhmj8q&dl=0)   (виконати __.__.2026 з __.__ до __.__)  
+**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/vllt59z4vlqsnraoggftg/1_-2_-_.pdf?rlkey=mfdgvsl7ydgdfjv2nuci7mew4&dl=0)   (виконати __.__.2026 в ауд. __ згідно розкладу)
+  
 
-Рекомендації щодо виконання МКР-2 — [скачати](https://www.dropbox.com/scl/fi/nt8u3l1j90p62fc9oc6ex/_-2.pdf?rlkey=c821yie9r193yyhv0xek5cutm&dl=0)
+Рекомендації щодо виконання МКР-2 — [скачати](https://www.dropbox.com/scl/fi/kswzo3pxwbz7xjf424ejg/1_-2_.pdf?rlkey=akusixvsdvfy3t56dl6k0xrsj&dl=0)
 
 
 **Перелік лекцій:**
