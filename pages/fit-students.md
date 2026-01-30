@@ -8,7 +8,7 @@ nav_order: 5
 
 для студентів 1 курсу (групи КБ-11, КБ-12, КБ-13, КБ-14).
 
-Робоча навчальна програма — [скачати](https://www.dropbox.com/scl/fi/2u7yeaurv3k43piqz18mk/_3-_-_-2024.pdf?rlkey=ue8zyk5iaj9exboa42zn60ots&dl=0)               
+Робоча навчальна програма — [скачати](https://www.dropbox.com/scl/fi/5i963j6q93ln5we6g9jfq/1_-_-_2025.pdf?rlkey=0ib2gwutjxzn0r25to059ylfz&dl=0)               
 
 Перелік навчальної літератури - [скачати](https://www.dropbox.com/scl/fi/begb306ptvx8xnu6qtn6u/1_.pdf?rlkey=ce6r0qabuebykr1p49ttef7yy&dl=0)  
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/scl/fi/kd28u6iygmg028t2i3p0t/1_.pdf?rlkey=3jaiwgs4e51y16gxr8p7jx708&dl=0) 
