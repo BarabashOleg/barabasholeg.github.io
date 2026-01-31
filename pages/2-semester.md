@@ -18,13 +18,13 @@ nav_order: 2
 ](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)Ідентифікатор конференції: 353 627 7953  
 Код доступу: tef
 
-Завдання на ЛР-1  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/s/9zate8ma7h60d4e/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%A0-1.pdf?dl=0)  
-Завдання на ЛР-2  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
-Завдання на ЛР-3  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/2lpxpk8j2pwhablp8a5gx/2_-3.pdf?rlkey=2h96wv6bja17bayfs04gcmhs8&dl=0)  
-Завдання на ЛР-4  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/hvu6uo766b9pfnarm6ey5/2_-4.pdf?rlkey=u1eiaiu331lzthbljuyijtyvx&dl=0)  
-Завдання на ЛР-5  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
-Завдання на ЛР-6  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/2lpxpk8j2pwhablp8a5gx/2_-3.pdf?rlkey=2h96wv6bja17bayfs04gcmhs8&dl=0)  
-Завдання на ЛР-7  (здати до __.__.2026)  - [скачати](https://www.dropbox.com/scl/fi/hvu6uo766b9pfnarm6ey5/2_-4.pdf?rlkey=u1eiaiu331lzthbljuyijtyvx&dl=0) 
+Завдання на ЛР-1  (здати до 11.02.2026)  - [скачати](https://www.dropbox.com/s/9zate8ma7h60d4e/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%A0-1.pdf?dl=0)  
+Завдання на ЛР-2  (здати до 25.02.2026)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
+Завдання на ЛР-3  (здати до 11.03.2026)  - [скачати](https://www.dropbox.com/scl/fi/2lpxpk8j2pwhablp8a5gx/2_-3.pdf?rlkey=2h96wv6bja17bayfs04gcmhs8&dl=0)  
+Завдання на ЛР-4  (здати до 25.03.2026)  - [скачати](https://www.dropbox.com/scl/fi/hvu6uo766b9pfnarm6ey5/2_-4.pdf?rlkey=u1eiaiu331lzthbljuyijtyvx&dl=0)  
+Завдання на ЛР-5  (здати до 08.04.2026)  - [скачати](https://www.dropbox.com/scl/fi/l3yeswuh67wnwg382mv6r/2_-5.pdf?rlkey=0ti5ed67turs0u83xlrdmtbtt&dl=0)  
+Завдання на ЛР-6  (здати до 22.04.2026)  - [скачати](https://www.dropbox.com/scl/fi/kbh1xzfou0l62xtx02444/2_-6.pdf?rlkey=5gj4sy3r1v23cjfygh2y4vs66&dl=0)  
+Завдання на ЛР-7  (здати до 06.05.2026)  - [скачати](https://www.dropbox.com/scl/fi/m4x3esv3amfr2wja8ckez/2_-7.pdf?rlkey=rrodafe5lcmbzuo4uwn6k9aa2&dl=0) 
 
 
 **Перелік лекцій:**
