@@ -17,6 +17,7 @@ nav_order: 3
 Код доступу: tef  
 
 <!--
+-->
 [Варіант 1](https://www.dropbox.com/scl/fi/7a9jz14eyrufsge60e2ue/1_-1_-_-01.pdf?rlkey=be4wjci98w72v7xeszd2cyoh9&dl=0)  
 [Варіант 2](https://www.dropbox.com/scl/fi/dqig0z5347oc27c3prm1b/1_-1_-_-02.pdf?rlkey=6iljpuyawfigdfyhynwboczuv&dl=0)  
 [Варіант 3](https://www.dropbox.com/scl/fi/0nv61p2tt9avaa1dxderq/1_-1_-_-03.pdf?rlkey=f4ehftaf8zkyrzbi1c8rjj3tu&dl=0)  
@@ -47,7 +48,7 @@ nav_order: 3
 [Варіант 28](https://www.dropbox.com/scl/fi/53k31z8ghi98pdpqrn8vu/1_-1_-_-28.pdf?rlkey=81tryzwzbd37aarq73botgmrs&dl=0)  
 [Варіант 29](https://www.dropbox.com/scl/fi/8yz79evbudn064qsbdgsb/1_-1_-_-29.pdf?rlkey=zqehpqiim3inrjq1ksup5i5wl&dl=0)  
 [Варіант 30](https://www.dropbox.com/scl/fi/2w10rnyim1b8df8zbdu97/1_-1_-_-30.pdf?rlkey=8yfun4igwhxewg6ajkyg0sj9r&dl=0)  
-
+<!--
 -->
 
 <!--
