@@ -21,7 +21,7 @@ nav_order: 5
 
 Код доступу: tef
 
-**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/7enrroqv9lf8dmsv2s6pj/1_-1_-_.pdf?rlkey=kyu0t1zdg8ubtkihffkvk3yku&dl=0)   (виконати 16.03.2026 з 09.00 до 10.20)
+**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/7enrroqv9lf8dmsv2s6pj/1_-1_-_.pdf?rlkey=kyu0t1zdg8ubtkihffkvk3yku&dl=0)   (виконати 23.03.2026 з 09.00 до 10.20)
 
 Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/uk8bnrtlao8hjnm2isanm/1_-1_.pdf?rlkey=2dlvdohtazfyt7gmcsbjyje5j&dl=0)
 
