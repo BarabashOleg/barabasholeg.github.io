@@ -18,7 +18,7 @@ nav_order: 3
 
 <!--
 -->
-**МКР-1 з дисципліни СММвІКБ:**
+**МКР-1 з дисципліни СММвІКБ:   Дедлайн 10.20**
 
 [Варіант 1](https://www.dropbox.com/scl/fi/7a9jz14eyrufsge60e2ue/1_-1_-_-01.pdf?rlkey=be4wjci98w72v7xeszd2cyoh9&dl=0)  
 [Варіант 2](https://www.dropbox.com/scl/fi/dqig0z5347oc27c3prm1b/1_-1_-_-02.pdf?rlkey=6iljpuyawfigdfyhynwboczuv&dl=0)  
