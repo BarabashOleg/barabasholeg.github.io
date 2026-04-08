@@ -21,7 +21,8 @@ nav_order: 2
 **Підключитись до лабораторних занять (викладач макарчук А.В.) в Zoom:**
 
 [https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1
-](https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1)Ідентифікатор конференції: 776 5117 1531  
+](https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1)  
+Ідентифікатор конференції: 776 5117 1531  
 Код доступу: 8rkwb8
 
 
