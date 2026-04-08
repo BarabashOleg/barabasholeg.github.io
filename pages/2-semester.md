@@ -18,7 +18,7 @@ nav_order: 2
 ](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)Ідентифікатор конференції: 353 627 7953  
 Код доступу: tef
 
-**Підключитись до лабораторних занять (викладач макарчук А.В.) в Zoom:**
+**Підключитись до лабораторних занять (викладач Макарчук А.В.) в Zoom:**
 
 [https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1
 ](https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1)  
