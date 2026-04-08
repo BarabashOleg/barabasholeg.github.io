@@ -12,11 +12,18 @@ nav_order: 2
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/s/o0ote8ya0f6eujz/%D0%90%D0%A1%D0%94-2_%D0%A0%D0%A1%D0%9E.pdf?dl=0)  
 Спец прогр забезпечення (для практичних занять) — [скачати](https://www.dropbox.com/s/2fbxk32qv954tj7/%D0%90%D0%A1%D0%94-2_%D0%A1%D0%BF%D0%B5%D1%86%20%D0%9F%D0%97%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C.pdf?dl=0)  
 
-**Підключитись до занять в Zoom:**
+**Підключитись до лекцій та практичних занять в Zoom:**
 
 [https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09  
 ](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)Ідентифікатор конференції: 353 627 7953  
 Код доступу: tef
+
+**Підключитись до лабораторних занять (викладач макарчук А.В.) в Zoom:**
+
+[https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1
+](https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1)Ідентифікатор конференції: 776 5117 1531  
+Код доступу: 8rkwb8
+
 
 Завдання на ЛР-1  (здати до 11.02.2026)  - [скачати](https://www.dropbox.com/s/9zate8ma7h60d4e/%D0%90%D0%A1%D0%94-2_%D0%9B%D0%A0-1.pdf?dl=0)  
 Завдання на ЛР-2  (здати до 25.02.2026)  - [скачати](https://www.dropbox.com/scl/fi/3smwxy6prncbhhci56ngu/2_-2.pdf?rlkey=utl74zocd5onalfy4ckp4lyh7&dl=0)  
