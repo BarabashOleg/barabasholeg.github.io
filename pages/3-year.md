@@ -12,7 +12,8 @@ nav_order: 3
 Відповідальний виконавець НДР - Свинчук О.В.  
 Виконавці НДР - Шуклін Г.В., Бандурка О.І., Колумбет В.П., Макарчук А.В., Пироговська Т.В., Ворвуль Д.М.  
 
-**Звітні документи з НДР:**
+**Звітні документи з НДР:**  
+
 [Реєстраційна картка НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
 [Облікова картка НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
 [Остаточний звіт з НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
