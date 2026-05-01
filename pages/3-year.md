@@ -16,9 +16,9 @@ nav_order: 3
 
 **Звітні документи з НДР:**  
 
-[Реєстраційна картка НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
-[Облікова картка НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
-[Остаточний звіт з НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
+[Реєстраційна картка НДР](https://www.dropbox.com/scl/fi/uxclprqsjx66rxvla4j6x/_-0121U108334_.pdf?rlkey=2xfexh6qxgeydsd0z37dp1mvv&dl=0)  
+[Облікова картка НДР](https://www.dropbox.com/scl/fi/fuamtpx08d6gpgww7kgtk/_-0226U003192_-_.pdf?rlkey=wru7fayxy2beylp8z44gr5asq&dl=0)  
+[Остаточний звіт з НДР](https://www.dropbox.com/scl/fi/edgp7n1e8mx4uqisw1fqx/_-_-_-_-_2025_0121U108334.pdf?rlkey=5tmqzw5zmnc1b0hzv6khcta1n&dl=0)  
 
   
 
