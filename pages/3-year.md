@@ -18,8 +18,16 @@ nav_order: 3
 [Облікова картка НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
 [Остаточний звіт з НДР](https://www.dropbox.com/scl/fi/b6dbd4lrphb4p1gj9co8h/3_-1.pdf?rlkey=72t8puizrvu50enx8a7rz3g8w&dl=0)  
 
+  
 
+  
+## Монографія «ПОБУДОВА ФУНКЦІОНАЛЬНО СТІЙКИХ РОЗПОДІЛЕНИХ ІНФОРМАЦІЙНИХ СИСТЕМ»  
 
+**Посилання для цитування:**   
+
+Барабаш О.В. Побудова функціонально стійких розподілених інформаційних систем. Монографія. Київ, НАОУ, 2004, 226 с.
+
+[Завантажити монографію](https://www.dropbox.com/scl/fi/zxcdkzd7s5ao05x45uzz5/Barabash-O.-Construction-of-functionally-stable-distributed-information-systems.pdf?rlkey=dfonzkwr9zqjrsob73823f0rk&dl=0)  
 
 
 <!--
