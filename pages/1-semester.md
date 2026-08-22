@@ -47,7 +47,7 @@ nav_order: 1
 
 
 **Рекомендації щодо виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/d524qsn1ef3u9uc5pm4wv/1_-_.pdf?rlkey=ii8ihykxramn2fkux5pkufp8w&dl=0)    
-**Зразок виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/fnmm08biy6meyx0y8zkkf/1_-_-50_.pdf?rlkey=3nlv7eh84dsr7ba1bp2njlgq2&dl=0)  
+**Зразок виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/5hngic2hm2bxzjtetj8c7/1_-_-60_.pdf?rlkey=3asf67znheb01qckf9llopjel&dl=0)  
 **Завдання на МКР** (доступно 7 грудня 2026 року о 08.30) — скачати  
 
 Дата проведення **консультації перед заліком** - ___ грудня 2026 р. Початок о 19.00.    
