@@ -55,7 +55,6 @@ nav_order: 1
 
 Перелік питань до заліку за 1-й семестр - [скачати](https://www.dropbox.com/scl/fi/f9m7vbgc5yrswm0xdc1up/1_.pdf?rlkey=mcl1leght60ids1epvbb8aylh&dl=0)
 
-**Увага боржникам!** Перескладання заліку буде 19.01.2026 о 13.00. Прошу до 18.01.2026 надіслати всі невиконані ЛР.
 
 <!--
 [Варіант 1](https://www.dropbox.com/scl/fi/xm8olv6r44fxsfc8kt55m/1_-_-_-_-01.pdf?rlkey=g2dvyv8zv99iwcnik4ddy6zpp&dl=0)  
