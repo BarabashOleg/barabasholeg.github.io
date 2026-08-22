@@ -13,8 +13,8 @@ nav_order: 1
 
 **Підключитись до занять в Zoom:**
 
-[https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)  
-Ідентифікатор конференції: 353 627 7953 
+[https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1](https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1)  
+Ідентифікатор конференції: 725 089 5509 
 Код доступу: tef
 
 **Консультація** проводиться кожного понеділка на платформі Zoom о 19.00.
