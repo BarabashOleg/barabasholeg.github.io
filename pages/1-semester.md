@@ -11,13 +11,20 @@ nav_order: 1
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/s/lbv9otxfkwlxy2v/%D0%90%D0%A1%D0%94-1_%D0%A0%D0%A1%D0%9E.pdf?dl=0)  
 Спец прогр забезпечення (для практичних занять) — [скачати](https://www.dropbox.com/s/9qw3f56ougvmhz4/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%BF%D0%B5%D1%86%20%D0%9F%D0%97%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C.pdf?dl=0)  
 
-**Підключитись до занять в Zoom:**
+**Підключитись до лекцій та ПЗ в Zoom:**
 
 [https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1](https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1)  
 Ідентифікатор конференції: 725 089 5509 
 Код доступу: tef
 
 **Консультація** проводиться кожного понеділка на платформі Zoom о 19.00.
+
+**Підключитись до лабораторних занять (викладач Макарчук А.В.) в Zoom:**
+
+[https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1
+](https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1)  
+Ідентифікатор конференції: 776 5117 1531  
+Код доступу: 8rkwb8
 
 Завдання на ЛР-1 (Програмування лінійних алгоритмів) - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
 Завдання на ЛР-2 (Програмування розгалужених алгоритмів) - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
