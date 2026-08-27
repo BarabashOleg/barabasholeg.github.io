@@ -4,9 +4,9 @@ title: Студентам ФІТ
 nav_order: 7
 ---
 
-## Дисципліна «Спеціальні математичні методи в інформаційній та кібербезпеці Частина 1»
+## Дисципліна «Спеціальні математичні методи в інформаційній та кібербезпеці Частина 2»
 
-для студентів 1 курсу (групи КБ-11, КБ-12, КБ-13, КБ-14).
+для студентів 2 курсу (групи КБ-21, КБ-22, КБ-23, КБ-24).
 
 Робоча навчальна програма — [скачати](https://www.dropbox.com/scl/fi/5i963j6q93ln5we6g9jfq/1_-_-_2025.pdf?rlkey=0ib2gwutjxzn0r25to059ylfz&dl=0)               
 
@@ -15,19 +15,18 @@ nav_order: 7
 
 **Підключитись до онлайн-занять в Zoom за посиланням:**
 
-[https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09](https://us04web.zoom.us/j/3536277953?pwd=ZnpnOWNGb1BDdXJhS1RHQWpxN2xyUT09)
+[https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1](https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1)
 
-Ідентифікатор конференції: 353 627 7953
+Ідентифікатор конференції: 725 089 5509
 
 Код доступу: tef
 
-**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/7enrroqv9lf8dmsv2s6pj/1_-1_-_.pdf?rlkey=kyu0t1zdg8ubtkihffkvk3yku&dl=0)   (виконати 23.03.2026 з 09.00 до 10.20)
+**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/7enrroqv9lf8dmsv2s6pj/1_-1_-_.pdf?rlkey=kyu0t1zdg8ubtkihffkvk3yku&dl=0)   (заплановано на __ . __.2026)
 
 Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/uk8bnrtlao8hjnm2isanm/1_-1_.pdf?rlkey=2dlvdohtazfyt7gmcsbjyje5j&dl=0)
 
 **Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/vllt59z4vlqsnraoggftg/1_-2_-_.pdf?rlkey=mfdgvsl7ydgdfjv2nuci7mew4&dl=0)   (виконати 07.05.2026 в ауд. 115 згідно розкладу)
   
-
 Рекомендації щодо виконання МКР-2 — [скачати](https://www.dropbox.com/scl/fi/kswzo3pxwbz7xjf424ejg/1_-2_.pdf?rlkey=akusixvsdvfy3t56dl6k0xrsj&dl=0)
 
 
@@ -45,9 +44,9 @@ nav_order: 7
 
 [ДЗ-1](https://www.dropbox.com/scl/fi/3zbp25ilw1fghutlf8f3t/1_-1.pdf?rlkey=34kbr1bxe9mllzesqwb4p7f7f&dl=0), [ДЗ-2](https://www.dropbox.com/scl/fi/ojm5cwk7gks1wyvs0bcqh/1_-2.pdf?rlkey=ckr66etknlhovq2q4q8ypde85&dl=0), [ДЗ-3](https://www.dropbox.com/scl/fi/l2am2bq66pxkwcg92jqxz/1_-3.pdf?rlkey=y26s5hqo9rw58h0wko0twotez&dl=0), [ДЗ-4](https://www.dropbox.com/scl/fi/nfg46h77nwz0prswn82qr/1_-4.pdf?rlkey=7guojlvw9fa1ylhdwre45kpb9&dl=0), [ДЗ-5](https://www.dropbox.com/scl/fi/he251pc75j8gflje5jpkg/1_-5.pdf?rlkey=5aqcepebijfo500qadz0su3z6&dl=0), [ДЗ-6](https://www.dropbox.com/scl/fi/7o0o2p2f0s7j182eym0wb/1_-6.pdf?rlkey=dwmiox6v5ry88lrl2s6y1ygd4&dl=0), [ДЗ-7](https://www.dropbox.com/scl/fi/mh5tmv17vjal6pfu0ebjb/1_-7.pdf?rlkey=2m9qr2o4g66bcgtt3m5e2pjs3&dl=0), [ДЗ-8](https://www.dropbox.com/scl/fi/go1whvtxdk79sw8ynfakj/1_-8.pdf?rlkey=td4pm1vbikjp0ypnkxruvyrl9&dl=0), [ДЗ-9](https://www.dropbox.com/scl/fi/481eigl2mpb6au0d28izq/1_-9.pdf?rlkey=7jz0vxj3vgdsqg99zf1g8tf46&dl=0), [ДЗ-10](https://www.dropbox.com/scl/fi/43p3lmilaea52pv7wcagc/1_-10.pdf?rlkey=er3opukty4k4v98etsj7ce81p&dl=0)
 
-**Залік буде проведено: __.__.2026 о 09.00 - КБ-11; о 10.30 - КБ-12; о 12.10 - КБ-13; о 13.40 - КБ-14.**
+**Екзамени будуть проведені: __.__.2026 - КБ-21; __.__.2026 - КБ-22; __.__.2026 - КБ-23; __.__.2026 - КБ-24.**
 
-Список теоретичних питань, що виносяться на залік — [скачати](https://www.dropbox.com/scl/fi/6995qrta3rswsow5gb790/_.pdf?rlkey=2gv5il2t5ig5h1thetol7v249&dl=0)  
+Список теоретичних питань, що виносяться на екзамен — [скачати](https://www.dropbox.com/scl/fi/6995qrta3rswsow5gb790/_.pdf?rlkey=2gv5il2t5ig5h1thetol7v249&dl=0)  
 
 
 
