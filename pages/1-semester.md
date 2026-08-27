@@ -44,7 +44,7 @@ nav_order: 1
 [ПЗ-1](https://www.dropbox.com/s/neuapcxplgq4j89/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-1.pdf?dl=0),
 [ПЗ-2](https://www.dropbox.com/s/9h9fbr75fgrso7c/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-2.pdf?dl=0),
 [ПЗ-3](https://www.dropbox.com/scl/fi/2mqvzpe84mzssn30dzoz2/1_-3.pdf?rlkey=7k2juie1hdv3syp8l6lvrvfqx&dl=0),
-[ПЗ-4](https://www.dropbox.com/s/cdx5zccmo14qs4j/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-4.pdf?dl=0),
+[ПЗ-4](https://www.dropbox.com/s/cdx5zccmo14qs4j/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-4.pdf?dl=0)
 
 
 **Відеоурок до Лекц-11:** [Тестування ПЗ, Junit-тести ](https://www.dropbox.com/s/5cgyj9p86exrlwk/%D0%90%D0%A1%D0%94-1_%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%9F%D0%97%20%20Junit-%D1%82%D0%B5%D1%81%D1%82%D0%B8.mp4?dl=0)
