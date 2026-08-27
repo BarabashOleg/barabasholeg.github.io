@@ -10,7 +10,7 @@ nav_order: 7
 
 Робоча навчальна програма — [скачати](https://www.dropbox.com/scl/fi/2u7yeaurv3k43piqz18mk/_3-_-_-2024.pdf?rlkey=ue8zyk5iaj9exboa42zn60ots&dl=0)               
 
-Перелік навчальної літератури - [скачати](https://www.dropbox.com/scl/fo/scib15kifhk2wawno1m5w/AIH9EIu7R77HGxtld3x4iuI?rlkey=nnu9t1tkhc2y7bg8ppj9ka29e&dl=0)  
+Перелік навчальної літератури - [скачати](https://www.dropbox.com/scl/fi/3ci73wouudfu8rmyj5wnl/_.pdf?rlkey=bovcpqlqirpkhbd4t447yz35i&dl=0)  
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/scl/fi/qgcz76jcjd45s1m7allh1/_.pdf?rlkey=hktg9mze04dbycdf59eibwtqh&dl=0) 
 
 **Підключитись до онлайн-занять в Zoom за посиланням:**
