@@ -8,10 +8,10 @@ nav_order: 7
 
 для студентів 2 курсу (групи КБ-21, КБ-22, КБ-23, КБ-24).
 
-Робоча навчальна програма — [скачати](https://www.dropbox.com/scl/fi/5i963j6q93ln5we6g9jfq/1_-_-_2025.pdf?rlkey=0ib2gwutjxzn0r25to059ylfz&dl=0)               
+Робоча навчальна програма — [скачати](https://www.dropbox.com/scl/fi/2u7yeaurv3k43piqz18mk/_3-_-_-2024.pdf?rlkey=ue8zyk5iaj9exboa42zn60ots&dl=0)               
 
-Перелік навчальної літератури - [скачати](https://www.dropbox.com/scl/fi/begb306ptvx8xnu6qtn6u/1_.pdf?rlkey=ce6r0qabuebykr1p49ttef7yy&dl=0)  
-Рейтингова система оцінювання - [скачати](https://www.dropbox.com/scl/fi/kd28u6iygmg028t2i3p0t/1_.pdf?rlkey=3jaiwgs4e51y16gxr8p7jx708&dl=0) 
+Перелік навчальної літератури - [скачати](https://www.dropbox.com/scl/fo/scib15kifhk2wawno1m5w/AIH9EIu7R77HGxtld3x4iuI?rlkey=nnu9t1tkhc2y7bg8ppj9ka29e&dl=0)  
+Рейтингова система оцінювання - [скачати](https://www.dropbox.com/scl/fi/qgcz76jcjd45s1m7allh1/_.pdf?rlkey=hktg9mze04dbycdf59eibwtqh&dl=0) 
 
 **Підключитись до онлайн-занять в Zoom за посиланням:**
 
