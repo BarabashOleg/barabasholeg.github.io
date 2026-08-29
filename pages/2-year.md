@@ -4,7 +4,8 @@ title: 2-й Курс
 nav_order: 3
 ---
 
-## Дисципліна «АЛГОРИТМИ ТА СТРУКТУРИ ДАННИХ-1. ОСНОВИ АЛГОРИТМІЗАЦІЇ»  
+## Дисципліна «ТЕОРІЯ ЙМОВІРНОСТЕЙ»  
+для судентів 2-го курсу ФІОТ (гр. ІІ-51, 52, 53, о51)
   
 Силабус дисципліни — [скачати](https://www.dropbox.com/scl/fi/isbe8wer8fgaiegl6hnb7/1_-_F2_-_1.pdf?rlkey=0lhsld6r5atvde4rdiegkxg05&dl=0)  
 Перелік навчальної літератури - [скачати](https://www.dropbox.com/s/cm5mkvk83mr4obv/%D0%90%D0%A1%D0%94-1_%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B8.pdf?dl=0)  
@@ -17,22 +18,8 @@ nav_order: 3
 Ідентифікатор конференції: 725 089 5509 
 Код доступу: tef
 
-**Консультація** проводиться кожного понеділка на платформі Zoom о 19.00.
+**Консультація** проводиться кожного вівторка на платформі Zoom о 19.00.
 
-**Підключитись до лабораторних занять (викладач Макарчук А.В.) в Zoom:**
-
-[https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1
-](https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1)  
-Ідентифікатор конференції: 776 5117 1531  
-Код доступу: 8rkwb8
-
-Завдання на ЛР-1 (Програмування лінійних алгоритмів) - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
-Завдання на ЛР-2 (Програмування розгалужених алгоритмів) - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
-Завдання на ЛР-3 (Програмування циклічних алгоритмів)  - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
-Завдання на ЛР-4 (Алгоритми пошуку та сортування даних)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
-Завдання на ЛР-5 (Алгоритми обробки текстових рядків)  - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
-Завдання на ЛР-6 (Алгоритми обробки матриць та систем рівнянь)  - [скачати](https://www.dropbox.com/scl/fi/by6ry6dljko88pgy70uky/1_-6.pdf?rlkey=bcpwz1qcvrxs31ccrq50uy16d&dl=0)  
-Завдання на ЛР-7 (Моделювання взаємодії об'єктів)  - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
 
 **Перелік лекцій:**
 
@@ -48,6 +35,16 @@ nav_order: 3
 [ПЗ-5](https://www.dropbox.com/s/g0hrjex69echgrq/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-5%20.pdf?dl=0),
 [ПЗ-6](https://www.dropbox.com/s/v863qsqo7jft5ms/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-6.pdf?dl=0),
 [ПЗ-7](https://www.dropbox.com/scl/fi/0eb8agp5d5og8laqc6l58/1_-7.pdf?rlkey=1w4gxn4afnz73i43qthai5gip&dl=0)
+
+
+
+Завдання на ЛР-1 (Програмування лінійних алгоритмів) - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
+Завдання на ЛР-2 (Програмування розгалужених алгоритмів) - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
+Завдання на ЛР-3 (Програмування циклічних алгоритмів)  - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
+Завдання на ЛР-4 (Алгоритми пошуку та сортування даних)  - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
+Завдання на ЛР-5 (Алгоритми обробки текстових рядків)  - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
+Завдання на ЛР-6 (Алгоритми обробки матриць та систем рівнянь)  - [скачати](https://www.dropbox.com/scl/fi/by6ry6dljko88pgy70uky/1_-6.pdf?rlkey=bcpwz1qcvrxs31ccrq50uy16d&dl=0)  
+Завдання на ЛР-7 (Моделювання взаємодії об'єктів)  - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
 
 
 **Відеоурок до Лекц-11:** [Тестування ПЗ, Junit-тести ](https://www.dropbox.com/s/5cgyj9p86exrlwk/%D0%90%D0%A1%D0%94-1_%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%9F%D0%97%20%20Junit-%D1%82%D0%B5%D1%81%D1%82%D0%B8.mp4?dl=0)
