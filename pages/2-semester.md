@@ -15,7 +15,8 @@ nav_order: 2
 **Підключитись до лекцій та практичних занять в Zoom:**
 
 [https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1
-](https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1)Ідентифікатор конференції: 725 089 5509   
+](https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1)  
+Ідентифікатор конференції: 725 089 5509   
 Код доступу: tef
 
 **Підключитись до лабораторних занять (викладач Макарчук А.В.) в Zoom:**
