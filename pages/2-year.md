@@ -38,20 +38,20 @@ nav_order: 3
 
 
 
-ДЗ-1 - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
-ДЗ-2 - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
-ДЗ-3 - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
-ДЗ-4 - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
-ДЗ-5 - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
-ДЗ-6 - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
+ДЗ-1 (до 16.09.2026) - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
+ДЗ-2 (до 30.09.2026) - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
+ДЗ-3 (до 14.10.2026) - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
+ДЗ-4 (до 11.11.2026) - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
+ДЗ-5 (до 25.11.2026) - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
+ДЗ-6 (до 09.12.2026) - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
 
 
 
-**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/t6sh5orfvarau4kad3ycd/_-1_-_.pdf?rlkey=p9djgj4bpecrac1nk7epqzdmg&dl=0)   (заплановано на __ . __.2026)
+**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/t6sh5orfvarau4kad3ycd/_-1_-_.pdf?rlkey=p9djgj4bpecrac1nk7epqzdmg&dl=0)   (заплановано на 15.10.2026)
 
 Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/xvvbngohpvtsv5298crxd/_-1_.pdf?rlkey=vuj84xyjcx7h23j1ssaixrr1d&dl=0)
 
-**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/q7irdoh3nwkfa4sswyf0m/_-2_-_.pdf?rlkey=mjvzin1havhlsu14it4sikbfe&dl=0)   (заплановано на __ . __.2026)
+**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/q7irdoh3nwkfa4sswyf0m/_-2_-_.pdf?rlkey=mjvzin1havhlsu14it4sikbfe&dl=0)   (заплановано на 10.12.2026)
   
 Рекомендації щодо виконання МКР-2 — [скачати](https://www.dropbox.com/scl/fi/2trzuxpqmhy9sz6lar1aa/_-2_.pdf?rlkey=sntkt057o7hkpvyv652cxl1qy&dl=0)
 
