@@ -33,7 +33,8 @@ nav_order: 3
 [ПЗ-4](https://www.dropbox.com/s/cdx5zccmo14qs4j/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-4.pdf?dl=0),
 [ПЗ-5](https://www.dropbox.com/s/g0hrjex69echgrq/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-5%20.pdf?dl=0),
 [ПЗ-6](https://www.dropbox.com/s/v863qsqo7jft5ms/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-6.pdf?dl=0),
-[ПЗ-7](https://www.dropbox.com/scl/fi/0eb8agp5d5og8laqc6l58/1_-7.pdf?rlkey=1w4gxn4afnz73i43qthai5gip&dl=0)
+[ПЗ-7](https://www.dropbox.com/s/v863qsqo7jft5ms/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-6.pdf?dl=0),
+[ПЗ-8](https://www.dropbox.com/scl/fi/0eb8agp5d5og8laqc6l58/1_-7.pdf?rlkey=1w4gxn4afnz73i43qthai5gip&dl=0)
 
 
 
@@ -56,10 +57,10 @@ nav_order: 3
 Рекомендації щодо виконання МКР-2 — [скачати](https://www.dropbox.com/scl/fi/nt8u3l1j90p62fc9oc6ex/_-2.pdf?rlkey=c821yie9r193yyhv0xek5cutm&dl=0)
 
 
-Дата проведення **консультації перед заліком** - ___ грудня 2026 р. Початок о 19.00.    
-Дата проведення заліку - __ грудня 2026 р . Початок о __.__.  
+Дата проведення **консультації перед екзаменом** - ___ грудня 2026 р. Початок о 19.00.    
+Дата проведення екзаменів - __ грудня 2026 р . Початок о __.__.  
 
-Перелік питань, що виносяться на залік - [скачати](https://www.dropbox.com/scl/fi/ou0128xtqddcfg6q5uh7e/_.pdf?rlkey=zj9qwa2toava89fu3yti3qb40&dl=0)
+Перелік питань, що виносяться на екзамен - [скачати](https://www.dropbox.com/scl/fi/ou0128xtqddcfg6q5uh7e/_.pdf?rlkey=zj9qwa2toava89fu3yti3qb40&dl=0)
 
 
 <!--
