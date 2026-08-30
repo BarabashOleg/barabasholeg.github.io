@@ -43,8 +43,7 @@ nav_order: 3
 ДЗ-3 - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
 ДЗ-4 - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
 ДЗ-5 - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
-ДЗ-6 - [скачати](https://www.dropbox.com/scl/fi/by6ry6dljko88pgy70uky/1_-6.pdf?rlkey=bcpwz1qcvrxs31ccrq50uy16d&dl=0)  
-ДЗ-7 - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
+ДЗ-6 - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
 
 
 
