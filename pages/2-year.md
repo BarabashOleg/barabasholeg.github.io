@@ -27,15 +27,16 @@ nav_order: 3
 
 **Практичні заняття:**
 
-[ПЗ-1](https://www.dropbox.com/s/neuapcxplgq4j89/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-1.pdf?dl=0),
-[ПЗ-2](https://www.dropbox.com/s/9h9fbr75fgrso7c/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-2.pdf?dl=0),
-[ПЗ-3](https://www.dropbox.com/s/1t9hmc5z20fpgze/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-3.pdf?dl=0),
-[ПЗ-4](https://www.dropbox.com/s/cdx5zccmo14qs4j/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-4.pdf?dl=0),
-[ПЗ-5](https://www.dropbox.com/s/g0hrjex69echgrq/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-5%20.pdf?dl=0),
-[ПЗ-6](https://www.dropbox.com/s/v863qsqo7jft5ms/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-6.pdf?dl=0),
-[ПЗ-7](https://www.dropbox.com/s/v863qsqo7jft5ms/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-6.pdf?dl=0),
-[ПЗ-8](https://www.dropbox.com/scl/fi/0eb8agp5d5og8laqc6l58/1_-7.pdf?rlkey=1w4gxn4afnz73i43qthai5gip&dl=0)
+[ПЗ-1](https://www.dropbox.com/scl/fi/zewi6zoxqgyn17ig8eq8u/_-1.pdf?rlkey=hcthsjrg7585ufnic9ln5bsgh&dl=0),
+[ПЗ-2](https://www.dropbox.com/scl/fi/wt309clmqbh2ysh38rb6s/_-2.pdf?rlkey=q2wfcacrqj5xrnmgv8j92bqn0&dl=0),
+[ПЗ-3](https://www.dropbox.com/scl/fi/rjpjnmv949jdvgk3rmwl2/_-3.pdf?rlkey=4ju5ynqufq6gs5rvcw3og5mw7&dl=0),
+[ПЗ-4](https://www.dropbox.com/scl/fi/ue4vsfct6cqipt64lqdpq/_-4.pdf?rlkey=35d5fqbvcxb17qs8fil8qjit3&dl=0),
+[ПЗ-5](https://www.dropbox.com/scl/fi/ynafgw3tuu1owgm392bd0/_-5.pdf?rlkey=js75f9npsqfg9nmhsghdk5vwa&dl=0),
+[ПЗ-6](https://www.dropbox.com/scl/fi/s4nih90eyel7ek7h8t9hk/_-6.pdf?rlkey=f5ky42g5lka91vjizg2x1pjzf&dl=0),
+[ПЗ-7](https://www.dropbox.com/scl/fi/b673hgsrkor1q0oi7k6ni/_-7.pdf?rlkey=u9dzlkooycieuxknohexdgr2s&dl=0),
+[ПЗ-8](https://www.dropbox.com/scl/fi/ccgyoy2ko2f1xi98bdoya/_-8.pdf?rlkey=o1nw0u5ncmv7hf9ka24gr6gyk&dl=0)
 
+Відеоролики до ПЗ-7: [Частина 1](https://www.dropbox.com/scl/fi/9sp0415e3r0ypgbsyg4il/_-7_-1-Excel.mp4?rlkey=xxycv5o6waokkpqw6okr8bews&dl=0), [Частина 2](https://www.dropbox.com/scl/fi/rxyyikiwyg49w0d24hdlk/_-7_-2.mp4?rlkey=hlnubkle4zw8r4v85pjz7c6bq&dl=0)  
 
 
 ДЗ-1 (до 16.09.2026) - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
