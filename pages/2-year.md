@@ -48,13 +48,13 @@ nav_order: 3
 
 
 
-**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/xzf79ozwwdwt2c7phdn01/_-1_-_.pdf?rlkey=84jv7xaz5a7gk721l2nsrlbtb&dl=0)   (заплановано на __ . __.2026)
+**Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/t6sh5orfvarau4kad3ycd/_-1_-_.pdf?rlkey=p9djgj4bpecrac1nk7epqzdmg&dl=0)   (заплановано на __ . __.2026)
 
-Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/1vdwycxgag7e26put9cee/_-1.pdf?rlkey=1lsq2t8bnvl5rit4gwky58oym&dl=0)
+Рекомендації щодо виконання МКР-1 — [скачати](https://www.dropbox.com/scl/fi/xvvbngohpvtsv5298crxd/_-1_.pdf?rlkey=vuj84xyjcx7h23j1ssaixrr1d&dl=0)
 
-**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/mcnk1r4xsvcupwv4xtot1/_-2_-_.pdf?rlkey=o1auujal4hxpb01ausmuhmj8q&dl=0)   (заплановано на __ . __.2026)
+**Завдання на МКР-2** (приклад) — [скачати](https://www.dropbox.com/scl/fi/q7irdoh3nwkfa4sswyf0m/_-2_-_.pdf?rlkey=mjvzin1havhlsu14it4sikbfe&dl=0)   (заплановано на __ . __.2026)
   
-Рекомендації щодо виконання МКР-2 — [скачати](https://www.dropbox.com/scl/fi/nt8u3l1j90p62fc9oc6ex/_-2.pdf?rlkey=c821yie9r193yyhv0xek5cutm&dl=0)
+Рекомендації щодо виконання МКР-2 — [скачати](https://www.dropbox.com/scl/fi/2trzuxpqmhy9sz6lar1aa/_-2_.pdf?rlkey=sntkt057o7hkpvyv652cxl1qy&dl=0)
 
 
 Дата проведення **консультації перед екзаменом** - ___ грудня 2026 р. Початок о 19.00.    
