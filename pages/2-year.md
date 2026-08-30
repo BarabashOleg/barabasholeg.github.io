@@ -39,12 +39,12 @@ nav_order: 3
 Відеоролики до ПЗ-7: [Частина 1](https://www.dropbox.com/scl/fi/9sp0415e3r0ypgbsyg4il/_-7_-1-Excel.mp4?rlkey=xxycv5o6waokkpqw6okr8bews&dl=0), [Частина 2](https://www.dropbox.com/scl/fi/rxyyikiwyg49w0d24hdlk/_-7_-2.mp4?rlkey=hlnubkle4zw8r4v85pjz7c6bq&dl=0)  
 
 
-ДЗ-1 (до 16.09.2026) - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
-ДЗ-2 (до 30.09.2026) - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
-ДЗ-3 (до 14.10.2026) - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
-ДЗ-4 (до 11.11.2026) - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
-ДЗ-5 (до 25.11.2026) - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
-ДЗ-6 (до 09.12.2026) - [скачати](https://www.dropbox.com/scl/fi/u9d37oiy8w5kwwwoo7hxb/1_-7.pdf?rlkey=g1m34fpit8vfs6ccmps0vzgup&dl=0)  
+ДЗ-1 (до 16.09.2026) - [скачати](https://www.dropbox.com/scl/fi/d2oerw94pwimrm3jkpax9/_-1.pdf?rlkey=a9wlf2bglb3o6gu5zctzilfjw&dl=0)  
+ДЗ-2 (до 30.09.2026) - [скачати](https://www.dropbox.com/scl/fi/tj0tnqcebhpujxqiqtgc9/_-2.pdf?rlkey=85oh5wiozr9dn0w1gwjqig9la&dl=0)  
+ДЗ-3 (до 14.10.2026) - [скачати](https://www.dropbox.com/scl/fi/k5yyqgadtzacyztelv9tm/_-3.pdf?rlkey=tvotslotvb4epaog7booidtnq&dl=0)  
+ДЗ-4 (до 11.11.2026) - [скачати](https://www.dropbox.com/scl/fi/f8johniypv15pcl1kg67z/_-4.pdf?rlkey=onwpsr6wm5squ5ms0mcjcmrpt&dl=0)  
+ДЗ-5 (до 25.11.2026) - [скачати](https://www.dropbox.com/scl/fi/gwiuihn8nugzcy1q0zxlw/_-5.pdf?rlkey=bcwxt77fh1nubd2qalax9suep&dl=0)  
+ДЗ-6 (до 09.12.2026) - [скачати](https://www.dropbox.com/scl/fi/bc7ys3oszewnszxlch54t/_-6.pdf?rlkey=9fgdty6olhy0qynwux2ign4r3&dl=0)  
 
 
 
