@@ -22,4 +22,5 @@ nav_order: 0
 **Контактні адреса та телефони:**    
 Барабаш Олег Володимирович    
 097-911-0854    
-bar64@ukr.net
+bar64@ukr.net  
+barabash.oleg@edu.kpi.ua
