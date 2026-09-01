@@ -8,7 +8,7 @@ nav_order: 5
 
 для студентів-магістрів 6 курсу (групи ТВ-51мн).
 
-Силабус з дисципліни — [скачати](https://www.dropbox.com/scl/fi/nciu8keuk9zrxl1smcfly/_-_-3_121_-_-_6-_.pdf?rlkey=w6l6kk31qses382641ciqqirf&dl=0)
+Силабус з дисципліни — [скачати](https://www.dropbox.com/scl/fi/4spjdmnbema4deah0kneb/2-_2026.pdf?rlkey=drgxh3kg9o53ynxvjffeawjtv&dl=0)
 
 Перелік навчальної літератури - [скачати](https://www.dropbox.com/scl/fi/qpax5abis8bfoxmibujs0/3_.pdf?rlkey=o3g8yx5qy1q14ci4039crto99&dl=0)  
 Рейтингова система оцінювання - [скачати](https://www.dropbox.com/scl/fi/mr6r7djd007be4g0p8fty/3_.pdf?rlkey=qn8c7bjs0w8aryh6xqjojtu21&dl=0)
