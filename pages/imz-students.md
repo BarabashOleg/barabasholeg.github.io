@@ -21,7 +21,7 @@ nav_order: 6
 
 **Консультація** проводиться кожного понеділка на платформі Zoom о 19.00.
 
-**Підключитись до лабораторних занять (викладач Макарчук А.В.) в Zoom:**
+**Підключитись до занять (викладач Макарчук А.В.) в Zoom:**
 
 [https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1
 ](https://us04web.zoom.us/j/77651171531?pwd=nxTw5e3a0zNMDzxyTjlNIPtbb8a8bD.1)  
