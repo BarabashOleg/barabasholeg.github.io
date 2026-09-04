@@ -28,12 +28,12 @@ nav_order: 6
 Ідентифікатор конференції: 776 5117 1531  
 Код доступу: 8rkwb8
 
-Завдання на ДЗ-1 (Програмування лінійних алгоритмів) до 16.09.2026 - [скачати](https://www.dropbox.com/s/n855q14qz1ifu2q/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-1.pdf?dl=0)  
-Завдання на ДЗ-2 (Програмування розгалужених алгоритмів) до 30.09.2026 - [скачати](https://www.dropbox.com/s/9dbrqhjhtw1l2qt/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-2.pdf?dl=0)  
-Завдання на ДЗ-3 (Програмування циклічних алгоритмів) до 14.10.2026 - [скачати](https://www.dropbox.com/s/t5nlxxr2rive45g/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-3.pdf?dl=0)  
-Завдання на ДЗ-4 (Алгоритми пошуку та сортування даних) до 28.10.2026 - [скачати](https://www.dropbox.com/s/nibaiefqi2yac56/%D0%90%D0%A1%D0%94-1_%D0%9B%D0%A0-4.pdf?dl=0)  
-Завдання на ДЗ-5 (Алгоритми обробки текстових рядків) до 11.11.2026 - [скачати](https://www.dropbox.com/scl/fi/aj299z4ji91nup1jdifb6/1_-5.pdf?rlkey=nkslv5gqb0xvgrrlshaegdon5&dl=0)  
-Завдання на ДЗ-6 (Алгоритми обробки матриць та систем рівнянь) до 25.11.2026 - [скачати](https://www.dropbox.com/scl/fi/by6ry6dljko88pgy70uky/1_-6.pdf?rlkey=bcpwz1qcvrxs31ccrq50uy16d&dl=0)  
+Завдання на ДЗ-1 (Програмування лінійних алгоритмів) до 16.09.2026 - [скачати](https://www.dropbox.com/scl/fi/9rfme3ovx9t8ei18adh5k/_-1_-1.pdf?rlkey=2a11x241xh02434dxmtvvm6ti&dl=0)  
+Завдання на ДЗ-2 (Програмування розгалужених алгоритмів) до 30.09.2026 - [скачати](https://www.dropbox.com/scl/fi/fjt30yc5r3sybz50yc4jp/_-1_-2.pdf?rlkey=1njamre792spqfbq5yr8osto0&dl=0)  
+Завдання на ДЗ-3 (Програмування циклічних алгоритмів) до 14.10.2026 - [скачати](https://www.dropbox.com/scl/fi/v4p7fyh0e15qovmy2hc9y/_-1_-3.pdf?rlkey=ck2j4vd5xqqe2yy4b8x8duita&dl=0)  
+Завдання на ДЗ-4 (Алгоритми пошуку та сортування даних) до 28.10.2026 - [скачати](https://www.dropbox.com/scl/fi/91tcdfgq0xdgqfz4oerii/_-1_-4.pdf?rlkey=5tcrkpg8agt4c89acei2cf0kj&dl=0)  
+Завдання на ДЗ-5 (Алгоритми обробки текстових рядків) до 11.11.2026 - [скачати](https://www.dropbox.com/scl/fi/f78g1atxtxkw92bl2n61r/_-1_-5.pdf?rlkey=vfjc1csfvxd2dl650t107jox6&dl=0)  
+Завдання на ДЗ-6 (Алгоритми обробки матриць та систем рівнянь) до 25.11.2026 - [скачати](https://www.dropbox.com/scl/fi/un3zvdsx7tpf0118txh1g/_-1_-6.pdf?rlkey=45ivl0d58d1plfswhsil6g251&dl=0)  
 
 
 **Перелік лекцій:**
