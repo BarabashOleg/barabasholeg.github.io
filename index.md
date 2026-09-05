@@ -23,4 +23,4 @@ nav_order: 0
 Барабаш Олег Володимирович    
 097-911-0854    
 bar64@ukr.net  
-barabash.oleg@edu.kpi.ua
+barabash.oleh@edu.kpi.ua
