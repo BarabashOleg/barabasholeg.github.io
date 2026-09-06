@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 ## Дисципліна «ТЕОРІЯ ЙМОВІРНОСТЕЙ»  
-для судентів 2-го курсу ФІОТ (гр. ІІ-51, 52, 53, о51)
+для студентів 2-го курсу ФІОТ (гр. ІІ-51, 52, 53, о51)
   
 Силабус дисципліни — [скачати](https://www.dropbox.com/scl/fi/416rbawvrt5l72lnc7bua/_-_2-_-_26-27.pdf?rlkey=c37cxsm9wuhd4d53rb296ucri&dl=0)  
 Перелік навчальної літератури - [скачати](https://www.dropbox.com/scl/fi/qarfa99dadaxigppxatlc/_.pdf?rlkey=1lpglxdbh0zxvdf4bu2kog7uu&dl=0)  
