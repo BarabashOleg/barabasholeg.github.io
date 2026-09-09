@@ -17,9 +17,9 @@ nav_order: 7
 
 [https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1](https://us02web.zoom.us/j/7250895509?pwd=Rt6bt4uX2K1fxy5WfqKXaLYzBE6XET.1)
 
-Ідентифікатор конференції: 725 089 5509
+Ідентифікатор конференції: 725 089 5509   Код доступу: tef
 
-Код доступу: tef
+**Консультація** проводиться кожного вівторка на платформі Zoom о 19.00.
 
 **Завдання на МКР-1** (приклад) — [скачати](https://www.dropbox.com/scl/fi/xzf79ozwwdwt2c7phdn01/_-1_-_.pdf?rlkey=84jv7xaz5a7gk721l2nsrlbtb&dl=0)   (заплановано на __ . __.2026)
 
