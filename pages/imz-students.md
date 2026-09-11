@@ -44,8 +44,8 @@ nav_order: 6
 **Практичні заняття:**
 
 [ПЗ-1](https://www.dropbox.com/s/neuapcxplgq4j89/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-1.pdf?dl=0),
-[ПЗ-2](https://www.dropbox.com/s/9h9fbr75fgrso7c/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-2.pdf?dl=0),
-[ПЗ-3](),
+[ПЗ-2](),
+[ПЗ-3](https://www.dropbox.com/scl/fi/orl6o6okxb8morpwa0d8j/1_-_-3.pdf?rlkey=58zghdh1mwu5uwm3wucfba0qq&dl=0),
 [ПЗ-4](),
 [ПЗ-5](),
 [ПЗ-6](),
