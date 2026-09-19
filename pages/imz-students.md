@@ -47,7 +47,7 @@ nav_order: 6
 [ПЗ-2](),
 [ПЗ-3](https://www.dropbox.com/scl/fi/orl6o6okxb8morpwa0d8j/1_-_-3.pdf?rlkey=58zghdh1mwu5uwm3wucfba0qq&dl=0),
 [ПЗ-4](https://www.dropbox.com/scl/fi/pbj370a987i9rblzw10yl/1_-_-4.pdf?rlkey=x37z2ibpt76d2v6ymkc5gh36q&dl=0),
-[ПЗ-5](),
+[ПЗ-5](https://www.dropbox.com/scl/fi/qrgfph6o6kqr76ya9l1n0/1_-_-5.pdf?rlkey=d0n336y5beqwguvxp321o6kmq&dl=0),
 [ПЗ-6](),
 [ПЗ-7]()
 
