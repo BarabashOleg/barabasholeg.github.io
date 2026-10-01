@@ -45,7 +45,7 @@ nav_order: 1
 
 [ПЗ-1](https://www.dropbox.com/s/neuapcxplgq4j89/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-1.pdf?dl=0),
 [ПЗ-2](https://www.dropbox.com/s/9h9fbr75fgrso7c/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-2.pdf?dl=0),
-[ПЗ-3](https://www.dropbox.com/scl/fi/2mqvzpe84mzssn30dzoz2/1_-3.pdf?rlkey=7k2juie1hdv3syp8l6lvrvfqx&dl=0),
+[ПЗ-3](https://www.dropbox.com/scl/fi/2q8qt04d565mnpqaolk3t/1_-3.pdf?rlkey=ab87mrj70nv6375k5as89nfp8&dl=0),
 [ПЗ-4](https://www.dropbox.com/s/cdx5zccmo14qs4j/%D0%90%D0%A1%D0%94-1_%D0%9F%D0%97-4.pdf?dl=0)
 
 
