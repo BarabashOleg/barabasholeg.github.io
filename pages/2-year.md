@@ -36,7 +36,7 @@ nav_order: 3
 [ПЗ-7](https://www.dropbox.com/scl/fi/b673hgsrkor1q0oi7k6ni/_-7.pdf?rlkey=u9dzlkooycieuxknohexdgr2s&dl=0),
 [ПЗ-8](https://www.dropbox.com/scl/fi/ccgyoy2ko2f1xi98bdoya/_-8.pdf?rlkey=o1nw0u5ncmv7hf9ka24gr6gyk&dl=0)
 
-Відеоролики до ПЗ-4: [Частина 1](https://www.dropbox.com/scl/fi/9sp0415e3r0ypgbsyg4il/_-7_-1-Excel.mp4?rlkey=xxycv5o6waokkpqw6okr8bews&dl=0), [Частина 2](https://www.dropbox.com/scl/fi/rxyyikiwyg49w0d24hdlk/_-7_-2.mp4?rlkey=hlnubkle4zw8r4v85pjz7c6bq&dl=0)  
+Відеоролики до ПЗ-4: [Побудова багатокутника розподілу](https://www.dropbox.com/scl/fi/9sp0415e3r0ypgbsyg4il/_-7_-1-Excel.mp4?rlkey=xxycv5o6waokkpqw6okr8bews&dl=0), [Побудова функції розподілу](https://www.dropbox.com/scl/fi/rxyyikiwyg49w0d24hdlk/_-7_-2.mp4?rlkey=hlnubkle4zw8r4v85pjz7c6bq&dl=0)  
 
 Відеоролики до ПЗ-7: [Частина 1](https://www.dropbox.com/scl/fi/9sp0415e3r0ypgbsyg4il/_-7_-1-Excel.mp4?rlkey=xxycv5o6waokkpqw6okr8bews&dl=0), [Частина 2](https://www.dropbox.com/scl/fi/rxyyikiwyg49w0d24hdlk/_-7_-2.mp4?rlkey=hlnubkle4zw8r4v85pjz7c6bq&dl=0)  
 
