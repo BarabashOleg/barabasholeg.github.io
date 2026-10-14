@@ -44,7 +44,7 @@ nav_order: 3
 ДЗ-1 (до 16.09.2026) - [скачати](https://www.dropbox.com/scl/fi/d2oerw94pwimrm3jkpax9/_-1.pdf?rlkey=a9wlf2bglb3o6gu5zctzilfjw&dl=0)  
 ДЗ-2 (до 30.09.2026) - [скачати](https://www.dropbox.com/scl/fi/tj0tnqcebhpujxqiqtgc9/_-2.pdf?rlkey=85oh5wiozr9dn0w1gwjqig9la&dl=0)  
 ДЗ-3 (до 14.10.2026) - [скачати](https://www.dropbox.com/scl/fi/k5yyqgadtzacyztelv9tm/_-3.pdf?rlkey=tvotslotvb4epaog7booidtnq&dl=0)  
-ДЗ-4 (до 28.11.2026) - [скачати](https://www.dropbox.com/scl/fi/f8johniypv15pcl1kg67z/_-4.pdf?rlkey=onwpsr6wm5squ5ms0mcjcmrpt&dl=0)  
+ДЗ-4 (до 28.10.2026) - [скачати](https://www.dropbox.com/scl/fi/f8johniypv15pcl1kg67z/_-4.pdf?rlkey=onwpsr6wm5squ5ms0mcjcmrpt&dl=0)  
 ДЗ-5 (до 11.11.2026) - [скачати](https://www.dropbox.com/scl/fi/gwiuihn8nugzcy1q0zxlw/_-5.pdf?rlkey=bcwxt77fh1nubd2qalax9suep&dl=0)  
 ДЗ-6 (до 25.11.2026) - [скачати](https://www.dropbox.com/scl/fi/bc7ys3oszewnszxlch54t/_-6.pdf?rlkey=9fgdty6olhy0qynwux2ign4r3&dl=0)  
 
