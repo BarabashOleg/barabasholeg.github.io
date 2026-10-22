@@ -49,8 +49,8 @@ nav_order: 6
 [ПЗ-4](https://www.dropbox.com/scl/fi/pbj370a987i9rblzw10yl/1_-_-4.pdf?rlkey=x37z2ibpt76d2v6ymkc5gh36q&dl=0),
 [ПЗ-5](https://www.dropbox.com/scl/fi/qrgfph6o6kqr76ya9l1n0/1_-_-5.pdf?rlkey=d0n336y5beqwguvxp321o6kmq&dl=0),
 [ПЗ-6](https://www.dropbox.com/scl/fi/mopog55w8mtztq63fxmri/_-1_-6.pdf?rlkey=ryfrjiune3v9inmct0p3rucny&dl=0), [ПЗ-7](https://www.dropbox.com/scl/fi/xxc3y6swl5wjp2xplq14m/_-1_-7.pdf?rlkey=usmd0p9oew63ugnybf91dsdmy&dl=0), [ПЗ-8](https://www.dropbox.com/scl/fi/ohafz6bdur7n5q7mpka13/_-1_-8.pdf?rlkey=ltvo2b65bfid8kvaey7oen1b3&dl=0), 
-[ПЗ-9](https://www.dropbox.com/scl/fi/idt6owd1qgk96rkohpmin/_-1_-9.pdf?rlkey=nrhad4udw1xc78dl1c6v7zh1l&dl=0), [ПЗ-10](https://www.dropbox.com/scl/fi/rq3u27yzlg44sbiw8rbqv/_-1_-10.pdf?rlkey=4gs3yqd1uz3d8hyvsy0eklyxb&dl=0), [ПЗ-11](https://www.dropbox.com/scl/fi/pvnxku0jkupayzwcerwkj/_-1_-11.pdf?rlkey=wt62jd4edr7tybm21s6mh280s&dl=0), [ПЗ-12](https://www.dropbox.com/scl/fi/5tfk6mpsr6e86wzk8grwk/_-1_-12.pdf?rlkey=csa4k8fu7umcaomnzdjkavgjq&dl=0), 
-[ПЗ-13]()
+[ПЗ-9](https://www.dropbox.com/scl/fi/idt6owd1qgk96rkohpmin/_-1_-9.pdf?rlkey=nrhad4udw1xc78dl1c6v7zh1l&dl=0), [ПЗ-10](https://www.dropbox.com/scl/fi/rq3u27yzlg44sbiw8rbqv/_-1_-10.pdf?rlkey=4gs3yqd1uz3d8hyvsy0eklyxb&dl=0), [ПЗ-11](https://www.dropbox.com/scl/fi/pvnxku0jkupayzwcerwkj/_-1_-11.pdf?rlkey=wt62jd4edr7tybm21s6mh280s&dl=0), [ПЗ-12](https://www.dropbox.com/scl/fi/5tfk6mpsr6e86wzk8grwk/_-1_-12.pdf?rlkey=csa4k8fu7umcaomnzdjkavgjq&dl=0), [ПЗ-13](https://www.dropbox.com/scl/fi/rssb3oxi1bbjw111izrsj/_-1_-13.pdf?rlkey=qx90fucxk8rp84up6txi4qcli&dl=0), 
+[ПЗ-14]()
 
 
 **Відеоурок до Лекц-11:** [Тестування ПЗ, Junit-тести ](https://www.dropbox.com/s/5cgyj9p86exrlwk/%D0%90%D0%A1%D0%94-1_%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%9F%D0%97%20%20Junit-%D1%82%D0%B5%D1%81%D1%82%D0%B8.mp4?dl=0)
