@@ -56,8 +56,8 @@ nav_order: 6
 **Відеоурок до Лекц-11:** [Тестування ПЗ, Junit-тести ](https://www.dropbox.com/s/5cgyj9p86exrlwk/%D0%90%D0%A1%D0%94-1_%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%9F%D0%97%20%20Junit-%D1%82%D0%B5%D1%81%D1%82%D0%B8.mp4?dl=0)
 
 
-**Рекомендації щодо виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/d524qsn1ef3u9uc5pm4wv/1_-_.pdf?rlkey=ii8ihykxramn2fkux5pkufp8w&dl=0)    
-**Зразок виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/5hngic2hm2bxzjtetj8c7/1_-_-60_.pdf?rlkey=3asf67znheb01qckf9llopjel&dl=0)  
+**Рекомендації щодо виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/9nyqjkif5jciuc7v5gaef/_-1_-_.pdf?rlkey=w0g151fcoz1siwdl3ibvsry08&dl=0)    
+**Зразок виконання МКР** — [скачати](https://www.dropbox.com/scl/fi/u40pfpyllg5hbbdi3nudu/_-1_-_-62_.pdf?rlkey=yd91c1rk8dvoy3ob8m7l9z0s8&dl=0)  
 **Завдання на МКР** (доступно 4 грудня 2026 року о 12.20) — скачати  
 
 Дата проведення **консультації перед заліком** - ___ грудня 2026 р. Початок о 19.00.    
